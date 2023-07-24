@@ -1,1 +1,1 @@
-# Mental_Health_companion_app_using_flutter_and_firebase
+The goal is to create an user-focused mental health companion app using Flutter and Firebase to address these issues. It will have features for mood tracking, based on research resources, guided meditations, support from the community, and professional referral. In order to improve mental health for all users, the app wants to assist users to handle their mental health effectively, reducing prejudice, and developing a supportive community.
