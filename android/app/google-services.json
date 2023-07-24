@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "216596013168",
+    "project_id": "my-mental-companion-app",
+    "storage_bucket": "my-mental-companion-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216596013168:android:93cd2058bd35085ec414b5",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216596013168-l0opb05hmgmv4e5p3nl9urth7d07b6pm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeDtEgWT2sy1_OTctnWP7xu1_7wp0jI70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216596013168-l0opb05hmgmv4e5p3nl9urth7d07b6pm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
